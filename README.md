@@ -7,7 +7,19 @@ Fecha de entrega:   12/10/2023
 Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la pantalla oled e internet  
 
 ## 2.1.1 Práctica de inicio desplegar algo en pantalla oled
+**Modelado en wokwi**  
 
+**Conexiones**  
+
+**Código de thonny**   
+
+**Resultados**
 
 ## 2.1.2 Desplegar la hora de internet (Servidor NTP) en pantalla oled
+**Modelado en wokwi**  
 
+**Conexiones**  
+
+**Código de thonny**   
+
+**Resultados**
