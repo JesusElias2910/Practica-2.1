@@ -8,6 +8,7 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 
 ## 2.1.1 Práctica de inicio desplegar algo en pantalla oled
 **Modelado en wokwi**  
+![](Imagenes/carross.jpg)
 
 **Conexiones**  
 
