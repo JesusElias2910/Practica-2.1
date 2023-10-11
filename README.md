@@ -14,8 +14,7 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 
 **Código de thonny**   
 Lenguaje: Phyton
-```
-# Importar las librerías
+```# Importar las librerías
 import machine
 import ssd1306
 
@@ -31,7 +30,7 @@ oled_Des.show()
 
 # Despliegue en oled y la posición del mismo dentro de la oled
 oled_Des.text("Hola Mundo", 0, 0)
-oled_Des.text("Jesús Elías Martínez", 0, 10)
+oled_Des.text("Jesus Elias Mtz.", 0, 10)
 
 # Actualizar la oled, para desplegar la información
 oled_Des.show()
@@ -98,7 +97,7 @@ NomRed = "TecNM-ITT-Docentes"
 Contra = "tecnm2022!"  
     
 # Llamada a la función para conectar a internet pasando como parámetro el nombre y contraseña de la red
-WiFi(Nombre, Contra)
+WiFi(NomRed, Contra)
 # Llamada la función para configurar conexiones y dimensión de OLED
 oledDes = OledConfig()
     
