@@ -13,7 +13,6 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 **Conexiones (en físico)**  
 
 **Código de thonny**   
-phyton 
 ```
 # Importar las librerías
 import machine
