@@ -13,6 +13,7 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 **Conexiones (en físico)**  
 
 **Código de thonny**   
+![](Imágenes-Prácticas/códigoHol.png)  
 
 **Resultados**
 
