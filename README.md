@@ -1,4 +1,4 @@
-### 2.1 Practica Hola Mundo y la Hora de Internet (NTP Time server) 
+# 2.1 Practica Hola Mundo y la Hora de Internet (NTP Time server) 
 Depto de Sistemas y Computación
 Ing. En Sistemas Computacionales
 SISTEMAS PROGRAMABLES 23a
