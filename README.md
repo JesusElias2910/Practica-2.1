@@ -10,7 +10,7 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 **Modelado en wokwi**  
 ![](Imágenes-Prácticas/modelado.png)  
 
-**Conexiones**  
+**Conexiones (en físico)**  
 
 **Código de thonny**   
 
@@ -20,7 +20,7 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 **Modelado en wokwi**  
 ![](Imágenes-Prácticas/modelado1.png)  
 
-**Conexiones**  
+**Conexiones (en físico)**  
 
 **Código de thonny**   
 
