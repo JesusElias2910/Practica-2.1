@@ -11,6 +11,7 @@ Objetivo: Investigar y prácticar la maniuplación de la raspberry pico W con la
 ![](Imágenes-Prácticas/modelado.png)  
 
 **Conexiones (en físico)**  
+![](Imágenes-Prácticas/ConFis1.png) 
 
 **Código de thonny**   
 Lenguaje: Phyton
@@ -37,12 +38,14 @@ oled_Des.show()
 ```
 
 **Resultados**
+![](Imágenes-Prácticas/Res1.png)   
 
 ## 2.1.2 Desplegar la hora de internet (Servidor NTP) en pantalla oled
 **Modelado en wokwi**  
 ![](Imágenes-Prácticas/modelado1.png)  
 
 **Conexiones (en físico)**  
+![](Imágenes-Prácticas/ConFis2.png)  
 
 **Código de thonny**   
 Lenguaje: Phyton
@@ -114,3 +117,4 @@ while True:
 ```
 
 **Resultados**
+![](Imágenes-Prácticas/Res2.png) 
